@@ -1,4 +1,3 @@
-# Load the readr, ggplot2, and dplyr packages
 library(readr)
 library(ggplot2)
 library(dplyr)
